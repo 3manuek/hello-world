@@ -1,2 +1,2 @@
-10 REM Hello World in BASIC
-20 PRINT "Hello World"
+10 REM Viva Peron! in BASIC
+20 PRINT "Viva Peron!"

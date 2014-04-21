@@ -1,5 +1,5 @@
 #!/usr/sbin/dtrace -qs
 BEGIN {
-	printf("Hello World");
+	printf("Viva Peron!");
 	exit(0);
 }

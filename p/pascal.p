@@ -1,4 +1,4 @@
-program HelloWorld(output);
+program VivaPeron(output);
 begin
-        writeln('Hello World')
+        writeln('Viva Peron')
 end.

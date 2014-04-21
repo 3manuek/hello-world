@@ -1,1 +1,1 @@
-(display "Hello World") (newline)
+(display "Viva Peron") (newline)

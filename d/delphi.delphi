@@ -1,8 +1,8 @@
-// Hello World in Delphi
-Program Hello_World;
+// Viva Peron! in Delphi
+Program Viva_Peron;
 
 ($APPTYPE CONSOLE)
 
 Begin
-  WriteLn('Hello World');
+  WriteLn('Viva Peron!');
 End.

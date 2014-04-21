@@ -1,1 +1,1 @@
-trace( "Hello World" );
+trace( "Viva Peron!" );

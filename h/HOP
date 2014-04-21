@@ -1,6 +1,6 @@
 (define-service (hello-world)
   (<HTML>
      (<HEAD>
-        (<TITLE> "Hello, world!"))
+        (<TITLE> "Viva Peron!"))
      (<BODY>
-        "Hello, world!")))
+        "Viva Peron!")))

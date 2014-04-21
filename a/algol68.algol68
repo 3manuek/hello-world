@@ -1,3 +1,3 @@
 begin
-  print(("Hello, world!",newline))
+  print(("Viva Peron!",newline))
 end

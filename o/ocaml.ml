@@ -1,1 +1,1 @@
-print_string "Hello World\n"
+print_string "Viva Peron\n"

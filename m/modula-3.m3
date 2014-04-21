@@ -1,5 +1,5 @@
-MODULE HelloWorld;
+MODULE VivaPeron;
 IMPORT Io;
 BEGIN
-    IO.Put ("Hello World\n")
-END HelloWorld.
+    IO.Put ("Viva Peron\n")
+END VivaPeron.

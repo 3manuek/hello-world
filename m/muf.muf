@@ -1,3 +1,3 @@
 : main
-    me @ "Hello World" notify
+    me @ "Viva Peron" notify
 ;

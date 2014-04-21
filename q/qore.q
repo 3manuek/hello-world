@@ -1,10 +1,10 @@
 #!/usr/bin/env qore
-%exec-class HelloWorld
-class HelloWorld
+%exec-class VivaPeron
+class VivaPeron
 {
     constructor()
     {
-	    background $.say("Hello World");
+	    background $.say("Viva Peron");
     }
     private say($arg)
     {

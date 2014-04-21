@@ -1,5 +1,5 @@
-Module HelloWorld
+Module VivaPeron
     Sub Main()
-        System.Console.WriteLine("Hello World")
+        System.Console.WriteLine("Viva Peron")
     End Sub
 End Module

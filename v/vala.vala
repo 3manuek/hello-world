@@ -1,5 +1,5 @@
 static void main (string[] args)
 {
-	stdout.printf ("Hello World\n");
+	stdout.printf ("Viva Peron\n");
 }
 

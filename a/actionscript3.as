@@ -1,8 +1,8 @@
 package {
 	import flash.display.Sprite;
-	public class HelloWorld extends Sprite {
-		public function HelloWorld():void {
-			trace("Hello World");
+	public class VivaPeron extends Sprite {
+		public function VivaPeron():void {
+			trace("Viva Peron!");
 		}
 	}
 }

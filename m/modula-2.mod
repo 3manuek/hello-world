@@ -1,10 +1,10 @@
-MODULE HelloWorld;
+MODULE VivaPeron;
 
 FROM Terminal2 IMPORT WriteString, WriteLn;
 
 BEGIN
 
-    WriteString("Hello World");
+    WriteString("Viva Peron");
     WriteLn;
     
-END HelloWorld.
+END VivaPeron.

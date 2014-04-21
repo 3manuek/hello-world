@@ -1,2 +1,2 @@
-SET @message = 'Hello World!';
+SET @message = 'Viva Peron!';
 SELECT @message;

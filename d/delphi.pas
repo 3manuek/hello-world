@@ -1,6 +1,6 @@
-program HelloWorld;
+program VivaPeron;
 {$APPTYPE CONSOLE}
 
 begin
-	WriteLn('Hello World');
+	WriteLn('Viva Peron!');
 end.

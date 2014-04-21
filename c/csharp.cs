@@ -1,5 +1,5 @@
-class HelloWorld {
+class VivaPeron {
 	static void Main() {
-		System.Console.WriteLine("Hello World");
+		System.Console.WriteLine("Viva Peron!");
 	}
 }

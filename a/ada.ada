@@ -1,5 +1,5 @@
 with Text_IO;
-procedure Hello_World is
+procedure Viva_Peron is
 	begin
-		Text_IO.Put_line("Hello World!");
-	end Hello_World;
+		Text_IO.Put_line("Viva Peron!!");
+	end Viva_Peron;

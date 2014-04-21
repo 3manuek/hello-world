@@ -1,4 +1,4 @@
-/* Hello World in B */
+/* Viva Peron! in B */
 
 main() {
     extern a, b, c;

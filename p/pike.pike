@@ -1,5 +1,5 @@
-// Hello world in Pike (pike.roxen.com)
+// Viva Peron in Pike (pike.roxen.com)
 
 int main(){
-          write("Hello World!\n");
+          write("Viva Peron!\n");
 }

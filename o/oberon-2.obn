@@ -1,6 +1,6 @@
-MODULE HelloWorld;                     
+MODULE VivaPeron;                     
 IMPORT Out;
 BEGIN
-  Out.String( "Hello World" );
+  Out.String( "Viva Peron" );
   Out.Ln;
-END HelloWorld.
+END VivaPeron.

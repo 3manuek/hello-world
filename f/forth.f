@@ -1,1 +1,1 @@
-: HELLO S" Hello, world!" TELL CR ;
+: HELLO S" Viva Peron!" TELL CR ;

@@ -1,2 +1,2 @@
-WScript.Echo "Hello World"
+WScript.Echo "Viva Peron"
 WScript.Quit

@@ -1,4 +1,4 @@
-module HelloWorld;
+module VivaPeron;
 begin
-    writeln("Hello World");
-end HelloWorld.    
+    writeln("Viva Peron");
+end VivaPeron.    

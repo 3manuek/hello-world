@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-    NSLog(@"Hello, World!\n");
+    NSLog(@"Viva Peron!!\n");
 	return 0;
 }

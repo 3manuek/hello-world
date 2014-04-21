@@ -1,1 +1,1 @@
-(out "Hello World" crlf)
+(out "Viva Peron!" crlf)

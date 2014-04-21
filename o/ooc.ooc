@@ -1,4 +1,4 @@
 main: func {
-    "Hello World" println()
+    "Viva Peron" println()
 }
 

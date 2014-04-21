@@ -1,2 +1,2 @@
-let $hello := "Hello, World!"
+let $hello := "Viva Peron!!"
 return $hello

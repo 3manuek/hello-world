@@ -1,5 +1,5 @@
-Module HelloWorld
+Module VivaPeron
     Sub Main()
-        MsgBox("Hello world!")
+        MsgBox("Viva Peron!")
     End Sub
 End Module

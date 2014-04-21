@@ -1,4 +1,4 @@
 Begin
-   OutText ("Hello World!");
+   OutText ("Viva Peron!");
    Outimage;
 End;

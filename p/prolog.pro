@@ -1,1 +1,1 @@
-write('Hello World').
+write('Viva Peron').

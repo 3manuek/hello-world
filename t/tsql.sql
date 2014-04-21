@@ -1,3 +1,3 @@
 DECLARE @message varchar(128)
-SELECT  @message = 'Hello World!'
+SELECT  @message = 'Viva Peron!'
 PRINT   @message
